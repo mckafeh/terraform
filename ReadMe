@@ -1,0 +1,5 @@
+Prerequisite:
+
+Terraform installation: https://computingforgeeks.com/how-to-install-terraform-on-centos-linux/
+AWS authentication Cli setup: https://blog.gruntwork.io/a-comprehensive-guide-to-authenticating-to-aws-on-the-command-line-63656a686799
+cat $HOME/.aws/credentials
