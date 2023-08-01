@@ -1,0 +1,1 @@
+https://medium.com/@ikbenezer/how-to-create-an-amazon-elastic-kubernetes-service-cluster-using-terraform-c615eca68c54
