@@ -1,8 +1,10 @@
 Execute Terraform scripts
 In the folder, where our terraform code is located, we run following command:
+
 ```
 terraform init
 ``` 
+
 this command downloads and initializes provider plugins and other local settings which will be used in subsequent commands.
 ```
 terraform validate 
